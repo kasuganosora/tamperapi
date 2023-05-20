@@ -1,0 +1,4 @@
+bottle
+pymysql
+sqlalchemy
+cos-python-sdk-v5
