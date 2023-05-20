@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.11
 
 ENV DB_HOST=
 ENV DB_PORT=
