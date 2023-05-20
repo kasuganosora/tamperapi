@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["python", "/app/app.py"]
+CMD ["python", "/app/api.py"]
